@@ -134,3 +134,6 @@ HTTP tests create temporary products, users and orders in memory; restart the ba
 See [Commerce/docs/ARCHITECTURE.md](Commerce/docs/ARCHITECTURE.md), [Commerce/docs/PHASES.md](Commerce/docs/PHASES.md), and [Commerce/docs/API.md](Commerce/docs/API.md).
 
 This is a local demonstration, not a production-ready store. The application deliberately refuses non-Development hosting while it contains seeded passwords and volatile storage. No taxes are calculated and demo shipping is free. External product photos and optional fonts require internet access; system fonts and product-card image fallback work if unavailable. Do not collect real personal or card data.
+
+<img width="3010" height="1546" alt="image" src="https://github.com/user-attachments/assets/88947d3b-9b38-433d-8121-50df09f7acac" />
+

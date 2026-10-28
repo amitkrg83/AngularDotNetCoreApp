@@ -137,3 +137,4 @@ This is a local demonstration, not a production-ready store. The application del
 
 <img width="3010" height="1546" alt="image" src="https://github.com/user-attachments/assets/88947d3b-9b38-433d-8121-50df09f7acac" />
 
+<img width="3010" height="1546" alt="image" src="https://github.com/user-attachments/assets/2c21c599-68ae-4a3e-8626-986f7cd6010f" />
